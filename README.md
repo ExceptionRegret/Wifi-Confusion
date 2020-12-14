@@ -4,6 +4,11 @@
 
   **!Notice : Educational purpose only not for any illegal activites.I'm not responsible for anything you did wrong with code**
   
+# Requirements:
+- Kali Linux
+- External Wifi-Card
+- Python3
+
 # Features!
 
   - Massive generation of fake wifi access points
