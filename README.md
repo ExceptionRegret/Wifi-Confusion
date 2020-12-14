@@ -16,7 +16,7 @@
 
 # Installation and Usage:
 
-- Follow below Cmds
+- Follow below cmds
 
 ```sh
 $ git clone https://github.com/ExceptionRegret/Wifi-Confusion.git
