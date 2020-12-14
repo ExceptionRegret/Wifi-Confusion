@@ -11,7 +11,7 @@
 
 # Usage:
 ```sh
-$ git clone 
+$ git clone https://github.com/ExceptionRegret/Wifi-Confusion.git
 $ cd Wifi-Confusion
 $ python3 setup.py
 $ python3 wifi-confusion.py
@@ -36,3 +36,5 @@ wlan0     unassociated  Nickname:"<WIFI@REALTEK>"
           Tx excessive retries:0  Invalid misc:0   Missed beacon:0
 ```
 ##### In above example the external wificard interface is wlan0
+
+#Let's Confuse✌️
