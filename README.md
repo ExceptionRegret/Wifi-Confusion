@@ -37,4 +37,4 @@ wlan0     unassociated  Nickname:"<WIFI@REALTEK>"
 ```
 ##### In above example the external wificard interface is wlan0
 
-#Let's Confuse✌️
+# Let's Confuse✌️
