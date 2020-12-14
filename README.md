@@ -14,6 +14,7 @@
    
 [![](src/image.png)]()
 
+```sh
 $ git clone https://github.com/ExceptionRegret/Wifi-Confusion.git
 $ cd Wifi-Confusion
 $ pip3 install -r requirements.txt
