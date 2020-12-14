@@ -2,7 +2,7 @@
 ##### Created by: ExceptionRegret
 # Wifi-Confusion is used to create to Fake Wifi Acess-Points to Confuse the Victim
 
-  **!Notice : Educational purpose only not for any illegal activites.I'm not responsible for anything you did wrong with code**
+  **!Notice : Educational purpose only not for any illegal activites.I'm not responsible for anything if you do anything wrong with code**
   
 # Requirements:
 - Kali Linux
