@@ -8,7 +8,8 @@
 
   - Massive generation of fake wifi access points
   - Access montior mode in easy way
-
+## Note:
+   - Default wifi.lst placed in src folder so use src folder path only.
 # Installation and Usage:
 ```sh
 $ git clone https://github.com/ExceptionRegret/Wifi-Confusion.git
