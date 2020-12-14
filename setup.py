@@ -24,7 +24,7 @@ def logo():
 logo()
 print(R,"                                               FOR Wifi-Confusion")
 
-os.system('pip3 install -r requirements.txt && apt install python3 mdk3 aircrack-ng')
+os.system('apt install python3 mdk3 aircrack-ng')
 
 def setup():
         setup = pyfiglet.figlet_format("SETUP \n", font = "slant")
