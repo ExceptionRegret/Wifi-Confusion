@@ -1,0 +1,2 @@
+pyfiglet
+simple-term-menu
