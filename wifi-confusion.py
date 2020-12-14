@@ -113,7 +113,7 @@ def main():
                       logo()
                       print("Generator of FAKE AP's")
                       print("Note:In Case To Stop The Process Hit CRTL+C or CTRL+Z")
-		      print("The wifi.lst is in src folder so enter that path")
+                      print("The wifi.lst is in src folder so enter that path")
                       monitor_mode = input("Enter monitor mode interface: ")
                       wifi_lst = input("Enter path of the wifi.lst: ")
                       command = "mdk3 %s b -c 1 -f %s"%(monitor_mode,wifi_lst)
