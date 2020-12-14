@@ -14,6 +14,10 @@
    
 [![](src/image.png)]()
 
+# Installation and Usage:
+
+- Follow below Cmds
+
 ```sh
 $ git clone https://github.com/ExceptionRegret/Wifi-Confusion.git
 $ cd Wifi-Confusion
