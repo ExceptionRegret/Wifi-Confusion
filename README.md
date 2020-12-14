@@ -6,7 +6,7 @@
   
 # Requirements:
 - Kali Linux
-- External Wifi-Card
+- External Wifi-Card(Which supports monitor mode)
 - Python3
 
 # Features!
