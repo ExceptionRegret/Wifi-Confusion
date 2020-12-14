@@ -9,10 +9,11 @@
   - Massive generation of fake wifi access points
   - Access montior mode in easy way
 
-# Usage:
+# Installation and Usage:
 ```sh
 $ git clone https://github.com/ExceptionRegret/Wifi-Confusion.git
 $ cd Wifi-Confusion
+$ pip3 install -r requirements.txt
 $ python3 setup.py
 $ python3 wifi-confusion.py
 ```
