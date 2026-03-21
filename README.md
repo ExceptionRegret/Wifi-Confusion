@@ -1,4 +1,7 @@
 # Wifi-Confusion
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?logo=github-sponsors)](https://github.com/sponsors/ExceptionRegret)
+
 ##### Created by: ExceptionRegret
 # Wifi-Confusion is used to create to Fake Wifi Acess-Points to Confuse the Victim
 
